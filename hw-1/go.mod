@@ -1,4 +1,4 @@
-module github.com/user/GoLang-Practice/hw-1
+module github.com/TOIFLMSC/GoLang-Practice/hw-1
 
 go 1.15
 
